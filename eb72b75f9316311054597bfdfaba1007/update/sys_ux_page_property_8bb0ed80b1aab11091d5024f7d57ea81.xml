@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Barbershop ">03b0ed8008aab110eea41409da695892</page>
+        <required_translations>[ {
+  "message" : "New Barber",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-11 21:56:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8bb0ed80b1aab11091d5024f7d57ea81</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
+        <sys_update_name>sys_ux_page_property_8bb0ed80b1aab11091d5024f7d57ea81</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-11 21:56:14</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1207268_barber.03b0ed8008aab110eea41409da695892.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Barber"},"routeInfo":{"route":"record","fields":{"table":"x_1207268_barber_barber","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1207268_barber_barber","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=8bb0ed80b1aab11091d5024f7d57ea81"/>
+</record_update>
