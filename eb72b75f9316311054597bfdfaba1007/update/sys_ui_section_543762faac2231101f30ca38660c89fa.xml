@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="543762faac2231101f30ca38660c89fa" sys_domain="global" table="sys_user" version="3" view="custom_portal_settings_x_1207268_barber">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-11-20 16:07:20</sys_created_on>
+            <sys_id>d43762fa872231100792b35eec54d8fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="503762fa8b223110184707f26f8518fb">543762faac2231101f30ca38660c89fa</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-11-20 16:07:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-11-20 16:07:20</sys_created_on>
+            <sys_id>1c3762fa302231100c009c6186dd5af9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="503762fa8b223110184707f26f8518fb">543762faac2231101f30ca38660c89fa</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-11-20 16:07:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-11-20 16:07:20</sys_created_on>
+            <sys_id>183762fac9223110b5965086c2c0d0fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="503762fa8b223110184707f26f8518fb">543762faac2231101f30ca38660c89fa</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-11-20 16:07:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-11-20 16:07:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>543762faac2231101f30ca38660c89fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
+            <sys_update_name>sys_ui_section_543762faac2231101f30ca38660c89fa</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-11-20 16:07:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal settings (x_1207268_barber)" name="custom_portal_settings_x_1207268_barber">503762fa8b223110184707f26f8518fb</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

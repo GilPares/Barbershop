@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Barber Appointments">49143bdf9316311054597bfdfaba10e3</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 00:52:25</sys_created_on>
+        <sys_id>79e53f539356311054597bfdfaba10ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Barber Appointments</sys_name>
+        <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_79e53f539356311054597bfdfaba10ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-10 00:52:25</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Barber ">eb72b75f9316311054597bfdfaba1007</application>
+        <file_path/>
+        <instance_id>f42c467e1b4af15065324089bd4bcb5e</instance_id>
+        <instance_name>dev194707</instance_name>
+        <name>sc_cat_item_catalog_79e53f539356311054597bfdfaba10ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Barber Appointments">49143bdf9316311054597bfdfaba10e3</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-10 00:52:25</sys_created_on><sys_id>79e53f539356311054597bfdfaba10ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Barber Appointments</sys_name><sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package><sys_policy/><sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope><sys_update_name>sc_cat_item_catalog_79e53f539356311054597bfdfaba10ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-10 00:52:25</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>2044100539</payload_hash>
+        <record_name>Service Catalog.Barber Appointments</record_name>
+        <reverted_from/>
+        <source>e372b75f9316311054597bfdfaba100a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 00:52:25</sys_created_on>
+        <sys_id>39e57f539356311054597bfdfaba1002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bb6b7445c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-10 00:52:25</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>b9e57f531156311002eb951a501d7501</update_guid>
+        <update_guid_history>b9e57f531156311002eb951a501d7501:2044100539</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Barber Appointments">dc86f7939356311054597bfdfaba1011</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 00:55:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>3a7b48d7683d4f648da916b578f2d290</sys_id>
+        <sys_metadata>79e53f539356311054597bfdfaba10ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Barber Appointments</sys_name>
+        <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
+        <sys_parent display_value="Barber Appointments">49143bdf9316311054597bfdfaba10e3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
+        <sys_scope_delete display_value="">3ae57a03b6724f109156eab8ba77c590</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_79e53f539356311054597bfdfaba10ff</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_79e53f539356311054597bfdfaba10ff">39e57f539356311054597bfdfaba1002</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-10 00:55:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

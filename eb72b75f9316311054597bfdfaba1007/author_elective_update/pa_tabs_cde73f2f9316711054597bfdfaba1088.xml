@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>Appointments - Calendar view</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 19:39:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cde73f2f9316711054597bfdfaba1088</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Appointments - Calendar view</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
+        <sys_update_name>pa_tabs_cde73f2f9316711054597bfdfaba1088</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-10 19:39:36</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Barber ">eb72b75f9316311054597bfdfaba1007</application>
+        <file_path/>
+        <instance_id>f42c467e1b4af15065324089bd4bcb5e</instance_id>
+        <instance_name>dev194707</instance_name>
+        <name>pa_tabs_cde73f2f9316711054597bfdfaba1088</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>Appointments - Calendar view</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-10 19:39:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cde73f2f9316711054597bfdfaba1088</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Appointments - Calendar view</sys_name><sys_overrides/><sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package><sys_policy/><sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope><sys_update_name>pa_tabs_cde73f2f9316711054597bfdfaba1088</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-10 19:39:36</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>335228181</payload_hash>
+        <record_name>Appointments - Calendar view</record_name>
+        <reverted_from/>
+        <source>e372b75f9316311054597bfdfaba100a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 19:46:20</sys_created_on>
+        <sys_id>7769bbaf9316711054597bfdfaba1057</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bbac565f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-10 19:46:20</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>89e73f2f061671104953f38cef3bff89</update_guid>
+        <update_guid_history>89e73f2f061671104953f38cef3bff89:-1139820516,89e73f2f061671104953f38cef3bff89:-1139820516,89e73f2f061671104953f38cef3bff89:-1139820516</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Appointments - Calendar view">b369bbaf9316711054597bfdfaba1063</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 19:46:20</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>45905f1c4dab4ad689b1a871307894a4</sys_id>
+        <sys_metadata>cde73f2f9316711054597bfdfaba1088</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Appointments - Calendar view</sys_name>
+        <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
+        <sys_scope_delete display_value="">3ae57a03b6724f109156eab8ba77c590</sys_scope_delete>
+        <sys_update_name>pa_tabs_cde73f2f9316711054597bfdfaba1088</sys_update_name>
+        <sys_update_version display_value="pa_tabs_cde73f2f9316711054597bfdfaba1088">7769bbaf9316711054597bfdfaba1057</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-10 19:46:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

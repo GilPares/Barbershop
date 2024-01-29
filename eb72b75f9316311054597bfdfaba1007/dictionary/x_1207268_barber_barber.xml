@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6ac3bf9f9316311054597bfdfaba10b8" label="Barber" max_length="40" name="x_1207268_barber_barber" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Appointment Date" mandatory="true" max_length="40" name="appointment_date" type="glide_date_time"/>
+        <element choice="3" label="ApptStatus" max_length="40" name="apptstatus" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No Show" sequence="0" value="no_show"/>
+                <element inactive_on_update="false" label="CheckedIn" sequence="1" value="checkedin"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="2" value="cancelled"/>
+            </choice>
+        </element>
+        <element label="Email" max_length="40" name="email" type="email"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element choice="1" label="Serviced" max_length="40" name="serviced" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="javascript:ChangeModel.getDefaultTypeValue()" dynamic_default_value="d1442bd4c3c02010b1343f52c1d3aea5" label="Service Requested" mandatory="true" max_length="40" name="service_requested" type="choice" use_dynamic_default="true">
+            <choice>
+                <element inactive_on_update="false" label="Adult Cut" sequence="0" value="Adult Cut"/>
+                <element inactive_on_update="false" label="Adult Cut long hair" sequence="1" value="Adult Cut long hair"/>
+                <element inactive_on_update="false" label="Blower" sequence="2" value="Blower"/>
+                <element inactive_on_update="false" label="Child Cut" sequence="3" value="Child Cut"/>
+                <element inactive_on_update="false" label="Eyebrow waxing" sequence="4" value="eyebrow_waxing"/>
+            </choice>
+        </element>
+    </element>
+</database>

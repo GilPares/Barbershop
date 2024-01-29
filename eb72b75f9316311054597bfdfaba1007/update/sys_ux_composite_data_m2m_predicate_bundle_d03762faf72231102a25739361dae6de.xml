@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">1c3762fa2e2231106467c370399ab9e1</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">d43762fa09223110395a912d873969dd</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-20 16:07:19</sys_created_on>
+        <sys_id>d03762faf72231102a25739361dae6de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_d03762faf72231102a25739361dae6de</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-20 16:07:19</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

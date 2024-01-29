@@ -3,20 +3,20 @@
         <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
         <created_on>2022-05-29 16:29:20</created_on>
         <dashboard display_value="Barbershop ">c3b0ed80f1aab11089f85676506fae8a</dashboard>
-        <last_updated_on>2023-11-11 22:46:23</last_updated_on>
+        <last_updated_on>2023-11-14 20:13:26</last_updated_on>
         <requested_by_user/>
         <sys_class_name>par_dashboard_user_metadata</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-11 21:56:09</sys_created_on>
         <sys_id>83b0ed8017aab110b7fe96cc6e8bcd8b</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
         <sys_policy/>
         <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
         <sys_update_name>par_dashboard_user_metadata_83b0ed8017aab110b7fe96cc6e8bcd8b</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-11 22:46:23</sys_updated_on>
-        <updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user>
+        <sys_updated_by>alejandra.prenatt</sys_updated_by>
+        <sys_updated_on>2023-11-14 20:13:26</sys_updated_on>
+        <updated_by_user display_value="Alejandra Prenatt">22826bf03710200044e0bfc8bcbe5dec</updated_by_user>
     </par_dashboard_user_metadata>
 </record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Copy of Appointments">4de7772f9316711054597bfdfaba10f2</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 19:39:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4de73f2f9316711054597bfdfaba108a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4de7772f9316711054597bfdfaba10f2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_4de73f2f9316711054597bfdfaba108a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-10 19:39:36</sys_updated_on>
+        <tab display_value="Appointments - Calendar view">cde73f2f9316711054597bfdfaba1088</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Barber ">eb72b75f9316311054597bfdfaba1007</application>
+        <file_path/>
+        <instance_id>f42c467e1b4af15065324089bd4bcb5e</instance_id>
+        <instance_name>dev194707</instance_name>
+        <name>pa_m2m_dashboard_tabs_4de73f2f9316711054597bfdfaba108a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Copy of Appointments">4de7772f9316711054597bfdfaba10f2</dashboard><home>false</home><homepage/><order>1</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-10 19:39:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4de73f2f9316711054597bfdfaba108a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>4de7772f9316711054597bfdfaba10f2</sys_name><sys_overrides/><sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package><sys_policy/><sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_4de73f2f9316711054597bfdfaba108a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-10 19:39:36</sys_updated_on><tab display_value="Appointments - Calendar view">cde73f2f9316711054597bfdfaba1088</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-369660271</payload_hash>
+        <record_name>4de7772f9316711054597bfdfaba10f2</record_name>
+        <reverted_from/>
+        <source>e372b75f9316311054597bfdfaba100a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 19:39:36</sys_created_on>
+        <sys_id>45e73f2f9316711054597bfdfaba108c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bbabf399e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-10 19:39:36</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>89e73f2f54167110eac90a3ff1864d8b</update_guid>
+        <update_guid_history>89e73f2f54167110eac90a3ff1864d8b:-369660271</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Appointments Calendar View">b769bbaf9316711054597bfdfaba105f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 19:46:20</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>49cec093a0254597b8bf1e403dc0f151</sys_id>
+        <sys_metadata>4de73f2f9316711054597bfdfaba108a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4de7772f9316711054597bfdfaba10f2</sys_name>
+        <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
+        <sys_parent display_value="">4de7772f9316711054597bfdfaba10f2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
+        <sys_scope_delete display_value="">3ae57a03b6724f109156eab8ba77c590</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_4de73f2f9316711054597bfdfaba108a</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_4de73f2f9316711054597bfdfaba108a">45e73f2f9316711054597bfdfaba108c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-10 19:46:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

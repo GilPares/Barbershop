@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Barber  Config">cc3762fa9322311054597bfdfaba109f</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Security and login</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Settings Page">1c3762fa05223110381781a1edbec2f3</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>cketv4vef00013g8ybmju8dpb</route_type>
+        <screen_type display_value="Security and login">d03762fa92223110870f8b8689b58ef3</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-11-20 16:07:18</sys_created_on>
+        <sys_id>9c3762fa0e22311096af71e049eb99f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Security and login</sys_name>
+        <sys_package display_value="Barber " source="x_1207268_barber">eb72b75f9316311054597bfdfaba1007</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Barber ">eb72b75f9316311054597bfdfaba1007</sys_scope>
+        <sys_update_name>sys_ux_app_route_9c3762fa0e22311096af71e049eb99f1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-20 16:07:18</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=9c3762fa0e22311096af71e049eb99f1"/>
+</record_update>
